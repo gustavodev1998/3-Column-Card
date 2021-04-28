@@ -24,15 +24,12 @@
 body {
     font-family: var(--font-family-1);
     font-size: var(--font-size);
-    
     background-color: var(--very-light-gray);
-    width: 100vw;
-    height: 100vh;
 }
 
 .container {
-    height: 100%;
     width: 100%;
+    min-height: 100vh;
     display: flex;
     align-items:center;
     justify-content: center;
@@ -147,10 +144,6 @@ body {
 
 
 @media (max-width: 925px) {
-
-    .container {
-        height: auto;
-    }
 
     .cards {
         display: grid;

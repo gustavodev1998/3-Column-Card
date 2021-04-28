@@ -27,7 +27,7 @@ To check it out acess: <a target="_blank" href="https://gustavodev1998.github.io
 ## :memo: License
 
 This project is under a MIT license licença. Check out the archive
-<a href="https://github.com/gustavodev1998/3-Column-Card/blob/7bd3cd48b58bd41941434c3544c345cb872bd439/LICENSE">[LICENSE] </a> for more details.
+<a href="https://github.com/gustavodev1998/3-Column-Card/blob/7bd3cd48b58bd41941434c3544c345cb872bd439/LICENSE" target="_blank" >[LICENSE] </a> for more details.
 
 ---
 

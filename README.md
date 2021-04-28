@@ -22,7 +22,7 @@ This project was developed using the following technologies:
 This is a challenge with the purpuse of building a 3 column card and get it looking as close to the design as possible, also its responsive.
 
 ## 🔖 Layout
-To check it out acess: <a target="_blank" href="https://gustavodev1998.github.io/Launch-Countdown-Timer/">3-Column-Card</a>
+To check it out acess: <a target="_blank" href="https://gustavodev1998.github.io/3-Column-Card/">3-Column-Card</a>
 
 ## :memo: License
 

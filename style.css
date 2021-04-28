@@ -145,11 +145,6 @@ body {
 
 
 @media (max-width: 925px) {
-
-    .container {
-        height: auto;
-    }
-
     .cards {
         display: grid;
         grid-template-columns: 1fr;
